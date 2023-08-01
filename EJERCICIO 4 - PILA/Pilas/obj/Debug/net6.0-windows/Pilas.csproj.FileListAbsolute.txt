@@ -1,0 +1,51 @@
+D:\Escritorio\Clase 21042023\Pilas\Pilas\bin\Debug\net6.0-windows\Pilas.exe
+D:\Escritorio\Clase 21042023\Pilas\Pilas\bin\Debug\net6.0-windows\Pilas.deps.json
+D:\Escritorio\Clase 21042023\Pilas\Pilas\bin\Debug\net6.0-windows\Pilas.runtimeconfig.json
+D:\Escritorio\Clase 21042023\Pilas\Pilas\bin\Debug\net6.0-windows\Pilas.dll
+D:\Escritorio\Clase 21042023\Pilas\Pilas\bin\Debug\net6.0-windows\Pilas.pdb
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.csproj.AssemblyReference.cache
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.Form1.resources
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.csproj.GenerateResource.cache
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.AssemblyInfoInputs.cache
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.AssemblyInfo.cs
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.csproj.CoreCompileInputs.cache
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.dll
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\refint\Pilas.dll
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.pdb
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.genruntimeconfig.cache
+D:\Escritorio\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\ref\Pilas.dll
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\bin\Debug\net6.0-windows\Pilas.exe
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\bin\Debug\net6.0-windows\Pilas.deps.json
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\bin\Debug\net6.0-windows\Pilas.runtimeconfig.json
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\bin\Debug\net6.0-windows\Pilas.dll
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\bin\Debug\net6.0-windows\Pilas.pdb
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.csproj.AssemblyReference.cache
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.Form1.resources
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.csproj.GenerateResource.cache
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.AssemblyInfoInputs.cache
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.AssemblyInfo.cs
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.csproj.CoreCompileInputs.cache
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.dll
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\refint\Pilas.dll
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.pdb
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\Pilas.genruntimeconfig.cache
+D:\Escritorio\Clase 21042023\Clase 21042023\Pilas\Pilas\obj\Debug\net6.0-windows\ref\Pilas.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\bin\Debug\net6.0-windows\Pilas.exe
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\bin\Debug\net6.0-windows\Pilas.deps.json
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\bin\Debug\net6.0-windows\Pilas.runtimeconfig.json
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\bin\Debug\net6.0-windows\Pilas.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\bin\Debug\net6.0-windows\Pilas.pdb
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\Pilas.csproj.AssemblyReference.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\Pilas.Form1.resources
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\Pilas.csproj.GenerateResource.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\Pilas.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\Pilas.AssemblyInfoInputs.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\Pilas.AssemblyInfo.cs
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\Pilas.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\Pilas.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\refint\Pilas.dll
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\Pilas.pdb
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\Pilas.genruntimeconfig.cache
+D:\ESCRITORIO\FORMACION\IES\ESTRUCTURA-DE-DATOS\EJERCICIOS\EJERCICIO 4 - PILA\Pilas\obj\Debug\net6.0-windows\ref\Pilas.dll
